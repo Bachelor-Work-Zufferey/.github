@@ -12,5 +12,5 @@ Documents relating to the work can be found:
   2. Pin 30 and 32 of devkit must be short-circuited
      - Note: This will short-circuit the follower OPAMP
 ![information2](https://github.com/Bachelor-Work-Zufferey/.github/assets/54267681/9f06b5da-e5b5-4741-bee4-51b29b572153)
-  3. Now, data will be send every second to the Raspberry via e'Stream
-
+  3. The reference sensor must be connected to a 24V voltage supply with the provided cable
+  4. Now, data will be send every second to the Raspberry via e'Stream
