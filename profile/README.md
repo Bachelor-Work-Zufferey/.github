@@ -1,12 +1,8 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Conductivity Sensor Electronic - Read Me
+You can find a summary of the project [here](thesis-summary.pdf).
+## How to use the test bench 
+  1. Start the test bench by plugging the provided USB cable
+     - Note: You must used this cable, or another one with a USB to TTL serial
+  2. Pin 30 and 32 of devkit must be short-circuited
+     - Note: This will short-circuit the follower OPAMP
+     ![information](https://github.com/Bachelor-Work-Zufferey/.github/assets/54267681/41d6711b-9cad-45c4-afe8-12550e0724ca)
