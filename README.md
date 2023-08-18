@@ -1,3 +1,3 @@
-# .github
+# Conductivity Sensor Electronic - Read Me
 
-This is a nice read me.
+[Here is the thesis summary](thesis-summary.pdf)
