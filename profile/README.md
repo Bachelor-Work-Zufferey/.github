@@ -21,7 +21,7 @@ Documents relating to the work can be found:
   4. Now, data will be send every second to the Raspberry via e'Stream
 
 ## How to get and compile the application
-  1. Install Zephyr invironment ([Getting started with Zephyr](https://docs.zephyrproject.org/latest/develop/getting_started/index.html)
+  1. Install Zephyr invironment ([Getting started with Zephyr](https://docs.zephyrproject.org/latest/develop/getting_started/index.html) )
   2. Clone the "programmation" repository
   3. Implement your modification
   4. Go to path
@@ -34,3 +34,4 @@ Documents relating to the work can be found:
 ## Ways to improve measurement methods
   1. Get only the minimum values of the sine measured
   2. Improve calculation of conductivity
+  3. Add an auto calibration method on the test bench
