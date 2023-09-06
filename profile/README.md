@@ -28,8 +28,9 @@ Documents relating to the work can be found:
 ````
 /zephyrproject/modules/stm32l4xx/drivers/src/stm32l4xx_hal_dac.c
 ```` 
-  6. Delete the lines XXX
-  7. Compile your work using [west](https://docs.zephyrproject.org/latest/develop/west/index.html) command.
+  6. Delete the lines **812 to 844** as follow:
+     ![IMPORTANT_README](https://github.com/Bachelor-Work-Zufferey/.github/assets/54267681/8f7b09ba-82e3-45bb-b8ad-afb4b97a76c9)
+  8. Compile your work using [west](https://docs.zephyrproject.org/latest/develop/west/index.html) command.
 
 ## Ways to improve measurement methods
   1. Get only the minimum values of the sine measured
