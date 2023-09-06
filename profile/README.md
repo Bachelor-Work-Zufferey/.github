@@ -35,4 +35,7 @@ Documents relating to the work can be found:
 ## Ways to improve measurement methods
   1. Get only the minimum values of the sine measured
   2. Improve calculation of conductivity
-  3. Add an auto calibration method on the test bench
+  3. Add an average method on the board, by doing the mean value of the N last measures
+  4. Add an auto calibration method on the test bench
+
+
